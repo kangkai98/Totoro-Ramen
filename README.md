@@ -2,7 +2,7 @@
 
 Totoro Ramen is a software of a selfservice mkiosk for a ramen restaurant in order to reduce the customers waiting.  
   
-![ramen](https://github.com/kangkau/Totoro-Ramen/blob/master/img/ramen.jpg)
+![ramen](https://github.com/kangkau/Totoro-Ramen/raw/master/img/ramen.jpg)
 
 
 ## Requirement - 需求
