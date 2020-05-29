@@ -1,7 +1,5 @@
 # Totoro Ramen 
 
-[![Build Status](https://travis-ci.org/xialonghua/kotmvp.svg?branch=master)](https://travis-ci.org/xialonghua/kotmvp)
-
 Totoro Ramen is a software of a selfservice mkiosk for a ramen restaurant in order to reduce the customers waiting.  
   
 ![timg](FB0C928AEBDA43C187C277AA4F8B154C)
@@ -29,17 +27,17 @@ Totoro Ramen is a software of a selfservice mkiosk for a ramen restaurant in ord
 
 ## Schedule - 时间表
 
-```
+```mermaid
 gantt
-dateFormat YYYY-MM-DD
-section iteration1
-T1: 2020-03-23, 11d
-section iteration2
-T2: 2020-04-06, 11d
-section iteration3
-T3: 2020-04-20, 11d
-section iteration4
-T4: 2020-05-04, 11d
+  dateFormat YYYY-MM-DD
+  section iteration1
+  T1: 2020-03-23, 11d
+  section iteration2
+  T2: 2020-04-06, 11d
+  section iteration3
+  T3: 2020-04-20, 11d
+  section iteration4
+  T4: 2020-05-04, 11d
 ```
 
 ##  Architecture - 架构
