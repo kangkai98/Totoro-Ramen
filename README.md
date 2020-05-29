@@ -2,16 +2,16 @@
 
 Totoro Ramen is a software of a selfservice mkiosk for a ramen restaurant in order to reduce the customers waiting.  
   
-![ramen](https://github.com/kangkau/Totoro-Ramen/raw/master/img/ramen.jpg)
+![ramen](https://github.com/kangkau/Totoro-Ramen/blob/master/img/ramen.jpg)
 
 
-## Requirement - 需求
+## Requirement 
 * Java 11 or above
 * Eclipse
 
 
 
-## Features - 特点
+## Features 
 #### For customer
 * order set meal of ramen
 * customize ingredients based on your taste
@@ -25,7 +25,7 @@ Totoro Ramen is a software of a selfservice mkiosk for a ramen restaurant in ord
 * check sales in the past week
 
 
-## Schedule - 时间表
+## Schedule 
 
 ```mermaid
 gantt
@@ -40,8 +40,7 @@ gantt
   T4: 2020-05-04, 11d
 ```
 
-##  Architecture - 架构
-
+##  Architecture 
 
 ```
 graph TD
@@ -65,9 +64,7 @@ xls-->user.xls
 
 ```
   
-
-
-## Usage - 用法
+## Usage 
 **Startup** is a module that allows you to start using this software. To start the software, you only need to open this project in eclipse, enter the path *Group_98/src/code* and ++run++ this class.  
 
 
@@ -89,19 +86,20 @@ AdmModify | administrators modify the price of ingredients and check inventories
 BarChart | check sales in the past week
 ExcelHandler | all the operations involves with excel
 
+## Visuals
+![startup](https://github.com/kangkau/Totoro-Ramen/blob/master/img/startup.jpg)
 
+![addramen](https://github.com/kangkau/Totoro-Ramen/blob/master/img/addramen.jpg)
 
+![addon](https://github.com/kangkau/Totoro-Ramen/blob/master/img/addon.jpg)
 
-## Visuals - 视觉效果
-![617a49513b4cbd3e65c6d4920155a55](1D6ECA80F422422DAA5A3074E9B40715)  
+![pay](https://github.com/kangkau/Totoro-Ramen/blob/master/img/pay.jpg)
 
-![167f6ae301898752040fd98ce559f71](AD00893391C94F1D90FBC8D2D6AC95DC)  
+![login](https://github.com/kangkau/Totoro-Ramen/blob/master/img/login.jpg)
 
-![4696d08d8ccd410ce5c58c0c8463e22](B45837932D194C99BBD7BB3FC6FE7829)  
+![modify](https://github.com/kangkau/Totoro-Ramen/blob/master/img/modify.jpg)
 
-![379805e54d2fd4665ccea9819ac4352](E93A0F730CF04EF081B763914772833D)  
-
-![0f28566ccc3ecc0a21f3952addee271](B7C0C0A99BB740C3922A8923516BEDF3)
+![view](https://github.com/kangkau/Totoro-Ramen/blob/master/img/view.jpg)
 
 
 ## Lisense - 开源协议
